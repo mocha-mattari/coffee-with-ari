@@ -32,9 +32,4 @@ export default defineConfig({
     // Used for all `<Image />` and `<Picture />` components unless overridden with a prop
     layout: "constrained",
   },
-  experimental: {
-    svg: true,
-    responsiveImages: true,
-    preserveScriptOrder: true,
-  },
 });
