@@ -3,7 +3,7 @@ export const SITE = {
   author: "Ari",
   profile: "https://coffee-with-ari.pages.dev/",
   desc: "blog with analytic ideas.",
-  title: "Ari, coffee, and the quiet of rain",
+  title: "비 오는 날, Ari와 커피 한 잔",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
